@@ -1,0 +1,6 @@
+[core]
+    remote = onedrive_remote
+['remote "gdrive_remote"']
+    url = gdrive://1XRtlToKR12xnsoddTTm80yvGxpOKLXc5
+['remote "onedrive_remote"']
+    url = C:\Users\user\OneDrive\dvc-storage-churn-mlops
