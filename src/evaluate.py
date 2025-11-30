@@ -42,3 +42,13 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+import json, os
+os.makedirs("metrics", exist_ok=True)
+with open("metrics/val_metrics.json", "w") as f:
+    json.dump({
+        "precision": float(best_p),
+        "recall": float(best_r),
+        "threshold": float(best_t)
+    }, f, indent=2)
+print("Metrics saved to metrics/val_metrics.json")
