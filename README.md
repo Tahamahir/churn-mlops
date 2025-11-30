@@ -267,3 +267,7 @@ docker run -p 8000:8000 \
 
 * scikit-learn, DVC, MLflow, FastAPI communities.
 * Telco-like churn dataset used for demo purposes.
+* <img width="1889" height="910" alt="image" src="https://github.com/user-attachments/assets/7af99ea5-c95e-4c2d-a353-a7c229af0530" />
+<img width="1862" height="888" alt="image" src="https://github.com/user-attachments/assets/29a8fc81-8fb8-42f4-9fc8-8fe0b767531e" />
+
+
