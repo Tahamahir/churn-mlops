@@ -19,7 +19,7 @@ Project: end‑to‑end ML on tabular data for **customer churn prediction**, wi
 
 ---
 
-## Repo structure (simplified)
+## Repo structure 
 
 ```
 churn-mlops/
@@ -252,7 +252,7 @@ docker run -p 8000:8000 \
 
 ---
 
-## Roadmap (nice CV additions)
+## Roadmap 
 
 * Add `params.yaml` + DVC paramization (`-S`) for sweeps
 * Register best model in MLflow Model Registry
@@ -262,11 +262,6 @@ docker run -p 8000:8000 \
 
 ---
 
-## License
-
-MIT (or your preferred license)
-
----
 
 ## Acknowledgements
 
